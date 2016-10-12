@@ -5,4 +5,5 @@
 3. Changing the file pattern is OK
 4. Change directory of the file doesn't need change in the pattern
 5. removing "-text" make the file CRLF (exprected)
-6. Try eol=lf
+6. Try eol=lf also make it LF
+7. Try text eol=lf
